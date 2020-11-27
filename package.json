@@ -1,0 +1,8 @@
+{
+  "name": "test-org-ci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mayank1791989org/test-org-ci.git",
+  "author": "Mayank Agarwal <mayank@locus.sh>",
+  "license": "MIT"
+}
